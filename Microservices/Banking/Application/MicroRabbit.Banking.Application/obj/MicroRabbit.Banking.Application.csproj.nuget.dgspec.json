@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj",
+        "projectName": "MicroRabbit.Banking.Application",
+        "projectPath": "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj",
+        "packagesPath": "/Users/nuraratsangreuang/.nuget/packages/",
+        "outputPath": "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nuraratsangreuang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj": {
+                "projectPath": "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj",
+        "projectName": "MicroRabbit.Banking.Domain",
+        "projectPath": "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj",
+        "packagesPath": "/Users/nuraratsangreuang/.nuget/packages/",
+        "outputPath": "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nuraratsangreuang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

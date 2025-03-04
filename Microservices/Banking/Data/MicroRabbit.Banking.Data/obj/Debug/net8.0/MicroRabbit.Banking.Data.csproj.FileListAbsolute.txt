@@ -1,0 +1,17 @@
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/bin/Debug/net8.0/MicroRabbit.Banking.Data.deps.json
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/bin/Debug/net8.0/MicroRabbit.Banking.Data.runtimeconfig.json
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/bin/Debug/net8.0/MicroRabbit.Banking.Data.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/bin/Debug/net8.0/MicroRabbit.Banking.Data.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/bin/Debug/net8.0/MicroRabbit.Banking.Domain.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/bin/Debug/net8.0/MicroRabbit.Banking.Domain.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net8.0/MicroRabbit.Banking.Data.csproj.AssemblyReference.cache
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net8.0/MicroRabbit.Banking.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net8.0/MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net8.0/MicroRabbit.Banking.Data.AssemblyInfo.cs
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net8.0/MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net8.0/MicroRab.7A7C5B88.Up2Date
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net8.0/MicroRabbit.Banking.Data.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net8.0/refint/MicroRabbit.Banking.Data.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net8.0/MicroRabbit.Banking.Data.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net8.0/MicroRabbit.Banking.Data.genruntimeconfig.cache
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net8.0/ref/MicroRabbit.Banking.Data.dll

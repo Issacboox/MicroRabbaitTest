@@ -1,0 +1,12 @@
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/bin/Debug/net8.0/MicroRabbit.Domain.Core.deps.json
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/bin/Debug/net8.0/MicroRabbit.Domain.Core.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/bin/Debug/net8.0/MicroRabbit.Domain.Core.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/obj/Debug/net8.0/MicroRabbit.Domain.Core.csproj.AssemblyReference.cache
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/obj/Debug/net8.0/MicroRabbit.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/obj/Debug/net8.0/MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/obj/Debug/net8.0/MicroRabbit.Domain.Core.AssemblyInfo.cs
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/obj/Debug/net8.0/MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/obj/Debug/net8.0/MicroRabbit.Domain.Core.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/obj/Debug/net8.0/refint/MicroRabbit.Domain.Core.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/obj/Debug/net8.0/MicroRabbit.Domain.Core.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/obj/Debug/net8.0/ref/MicroRabbit.Domain.Core.dll

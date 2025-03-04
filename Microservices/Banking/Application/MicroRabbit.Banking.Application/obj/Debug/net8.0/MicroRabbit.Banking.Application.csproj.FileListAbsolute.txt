@@ -1,0 +1,15 @@
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net8.0/MicroRabbit.Banking.Application.deps.json
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net8.0/MicroRabbit.Banking.Application.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net8.0/MicroRabbit.Banking.Application.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net8.0/MicroRabbit.Banking.Domain.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net8.0/MicroRabbit.Banking.Domain.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/MicroRabbit.Banking.Application.csproj.AssemblyReference.cache
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/MicroRabbit.Banking.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/MicroRabbit.Banking.Application.AssemblyInfo.cs
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/MicroRab.1B946F70.Up2Date
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/MicroRabbit.Banking.Application.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/refint/MicroRabbit.Banking.Application.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/MicroRabbit.Banking.Application.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/ref/MicroRabbit.Banking.Application.dll
