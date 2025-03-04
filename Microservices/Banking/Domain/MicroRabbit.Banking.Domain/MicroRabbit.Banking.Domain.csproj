@@ -6,4 +6,9 @@
     <Nullable>disable</Nullable>
   </PropertyGroup>
 
+
+ <ItemGroup>
+    <ProjectReference Include="../../../../Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj" />
+      <ProjectReference Include="../../../../Infra.Bus/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj" />
+  </ItemGroup>
 </Project>

@@ -478,7 +478,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
+              },
+              "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Infra.Bus/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj": {
+                "projectPath": "/Users/nuraratsangreuang/Documents/rabbitMq/Test/Infra.Bus/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

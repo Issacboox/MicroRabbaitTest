@@ -8,5 +8,6 @@
 
 <ItemGroup>
     <ProjectReference Include="../../Domain/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj" />
+    <ProjectReference Include="../../../.../Infra.Bus/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj" />
   </ItemGroup>
 </Project>
