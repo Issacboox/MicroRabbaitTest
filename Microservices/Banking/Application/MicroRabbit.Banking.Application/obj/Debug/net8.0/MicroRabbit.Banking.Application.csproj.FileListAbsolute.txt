@@ -13,3 +13,8 @@
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/refint/MicroRabbit.Banking.Application.dll
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/MicroRabbit.Banking.Application.pdb
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/ref/MicroRabbit.Banking.Application.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net8.0/MicroRabbit.Domain.Core.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net8.0/MicroRabbit.Infra.Bus.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net8.0/MicroRabbit.Domain.Core.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net8.0/MicroRabbit.Infra.Bus.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net8.0/MicroRabbit.Banking.Application.sourcelink.json

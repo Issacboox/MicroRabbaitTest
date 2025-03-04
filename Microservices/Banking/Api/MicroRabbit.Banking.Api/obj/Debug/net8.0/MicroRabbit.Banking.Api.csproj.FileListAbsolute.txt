@@ -154,3 +154,4 @@
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Api/MicroRabbit.Banking.Api/obj/Debug/net8.0/MicroRabbit.Banking.Api.pdb
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Api/MicroRabbit.Banking.Api/obj/Debug/net8.0/MicroRabbit.Banking.Api.genruntimeconfig.cache
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Api/MicroRabbit.Banking.Api/obj/Debug/net8.0/ref/MicroRabbit.Banking.Api.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Api/MicroRabbit.Banking.Api/obj/Debug/net8.0/MicroRabbit.Banking.Api.sourcelink.json

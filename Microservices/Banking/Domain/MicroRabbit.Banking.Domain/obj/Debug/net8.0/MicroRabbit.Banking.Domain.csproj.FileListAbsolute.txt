@@ -9,3 +9,10 @@
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/obj/Debug/net8.0/refint/MicroRabbit.Banking.Domain.dll
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/obj/Debug/net8.0/MicroRabbit.Banking.Domain.pdb
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/obj/Debug/net8.0/ref/MicroRabbit.Banking.Domain.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/bin/Debug/net8.0/MicroRabbit.Domain.Core.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/bin/Debug/net8.0/MicroRabbit.Infra.Bus.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/bin/Debug/net8.0/MicroRabbit.Domain.Core.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/bin/Debug/net8.0/MicroRabbit.Infra.Bus.pdb
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/obj/Debug/net8.0/MicroRabbit.Banking.Domain.csproj.AssemblyReference.cache
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/obj/Debug/net8.0/MicroRabbit.Banking.Domain.sourcelink.json
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/obj/Debug/net8.0/MicroRab.27435DDB.Up2Date

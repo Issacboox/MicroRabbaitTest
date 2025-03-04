@@ -21,3 +21,4 @@
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Infra.IoC/MicroRabbit.Infra.Ioc/obj/Debug/net8.0/refint/MicroRabbit.Infra.Ioc.dll
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Infra.IoC/MicroRabbit.Infra.Ioc/obj/Debug/net8.0/MicroRabbit.Infra.Ioc.pdb
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Infra.IoC/MicroRabbit.Infra.Ioc/obj/Debug/net8.0/ref/MicroRabbit.Infra.Ioc.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Infra.IoC/MicroRabbit.Infra.Ioc/obj/Debug/net8.0/MicroRabbit.Infra.Ioc.sourcelink.json

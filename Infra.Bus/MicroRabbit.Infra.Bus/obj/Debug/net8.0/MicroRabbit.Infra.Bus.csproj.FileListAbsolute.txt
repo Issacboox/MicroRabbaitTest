@@ -13,3 +13,4 @@
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/refint/MicroRabbit.Infra.Bus.dll
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/MicroRabbit.Infra.Bus.pdb
 /Users/nuraratsangreuang/Documents/rabbitMq/Test/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/ref/MicroRabbit.Infra.Bus.dll
+/Users/nuraratsangreuang/Documents/rabbitMq/Test/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/MicroRabbit.Infra.Bus.sourcelink.json
